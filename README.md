@@ -30,8 +30,7 @@ Sistema que utiliza APT:
 - Baixe o projeto e entre no diretório
 > $ git clone https://github.com/projeto-de-algoritmos/DC_Chega_Perto && cd DC_Chega_Perto
 - Instale os requisitos
-> $ sudo apt-get install libsfml-dev
-> $ sudo apt-get install build-essential
+> $ sudo apt-get install libsfml-dev && sudo apt-get install build-essential
 - Entre na pasta build
 > $ cd build
 - Compile o projeto
