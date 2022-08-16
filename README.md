@@ -49,6 +49,9 @@ Explique como usar seu projeto caso haja algum passo a passo após o comando de 
 ## Outros 
 Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
 
+## Apresentação
+Você pode assistir à nossa apresentação [clicando aqui](https://github.com/projeto-de-algoritmos/DC_Chega_Perto/blob/main/apresentacao_chega_perto_dupla24.mp4).
+
 
 
 
